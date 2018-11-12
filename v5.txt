@@ -1,0 +1,8 @@
+v5 starts from lecture 322 onwards. But to just learn authentication i am skipping to lecture 327. i will
+come back to 322 if i have time to sit and style the pages.
+
+>>for authentication i am using a new directory called authentication. Please find the hands on in there.
+
+>>Install express and mongoose
+>>install passport passport-local
+>>install passport-local-mongoose body-parser express-session ejs
